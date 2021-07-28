@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Letícia. I'm a software & IT Translator currently studying full stack development.
